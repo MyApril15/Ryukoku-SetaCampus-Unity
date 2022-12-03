@@ -19,6 +19,7 @@
 ![CC2](https://github.com/MyApril15/Ryukoku-SetaCampus-Unity/blob/main/%E7%B4%B9%E4%BB%8B%E8%B3%87%E6%96%99/demo_CC02.gif)  
 
 ## 注意事項
+* 本プロジェクトで使っているUnityのバージョンは「**2021.3.5f1**」である．
 * 3Dスキャンのデータとしては，ドローンが上から下へ見るデータが割と多くて，地面から集めたデータがかけているので，歩行者視点に置くとおかしく見える可能性がある．
 * 現時点ではモデルがLODを作成されていないため，プレビューに重かったりすることがある．
 * モデルの不足やこれから着手する項目が，[報告書](https://github.com/MyApril15/Ryukoku-SetaCampus-Unity/blob/main/%E7%B4%B9%E4%BB%8B%E8%B3%87%E6%96%99/%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf)及び「やることリスト」に記載されている．

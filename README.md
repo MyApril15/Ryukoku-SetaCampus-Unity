@@ -8,6 +8,7 @@
 * [ポスター](https://github.com/MyApril15/Ryukoku-SetaCampus-Unity/blob/main/%E7%B4%B9%E4%BB%8B%E8%B3%87%E6%96%99/poster.pdf)
 
 興味のある方にUnityでのコンテンツ作成をサポートするため，こちらにて必要なファイルをアップした．  
+**こちらのプロジェクトも今後少しずつ更新すると思う．**
 
 ### デモ
 * #### RealityCaptureで作られたモデル
